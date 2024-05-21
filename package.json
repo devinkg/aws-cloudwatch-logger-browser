@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ckckchoudhary/aws-cloudwatch-logger-browser.git"
+    "url": "git+https://github.com/devinkg/aws-cloudwatch-logger-browser.git"
   },
   "keywords": [
     "aws",
@@ -25,7 +25,7 @@
   ],
   "author": "Chetan Kumar",
   "license": "MIT",
-  "homepage": "https://github.com/ckckchoudhary/aws-cloudwatch-logger-browser.git",
+  "homepage": "https://github.com/devinkg/aws-cloudwatch-logger-browser.git",
   "dependencies": {
     "@types/node": "^12.6.8",
     "axios": "^0.28.1",
